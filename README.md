@@ -5,3 +5,5 @@ It is supposed to have a better differential drive, but this work is mainly on t
 Two front wheels use velocity command and two rear wheels use motor command. The default density of the body material is much heavier than I thought.
 
 A velocity sensor has been added.
+
+Video Link: https://youtu.be/tQtAkk22a_g
